@@ -207,10 +207,10 @@ label {
 /* ===== STATE STYLES ======= */
 
 body {
-  background: blue;  
+  background: linear-gradient(135deg, #4a4a4a, #858585);  
   font-family: 'Comic Sans MS', cursive;
   text-align: center;
-  color: red;  
+  color: White;  
   display: flex;
   justify-content: center;
   align-items: center;
@@ -248,9 +248,9 @@ label {
 
 input[type="email"] {
   font-size: 1rem;
-  color: red;
-  background: none;
-  border: 2px solid red;  
+  color: White;
+  background: White;
+  border: 2px solid White;  
   padding: 0.5rem;
   width: 100%;
   border-radius: 

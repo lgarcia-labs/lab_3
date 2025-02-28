@@ -192,9 +192,9 @@ img, audio, video {
 */
 
 html {
-  font-size: 1.375em; /* 22px */
-  line-height: 1.182em; /* 26px / ~ 120% */
-  padding: 1.182em; /* 26px / ~ 120% */
+  font-size: 1.375em; 
+  line-height: 1.182em;  
+  padding: 1.182em;  
   text-rendering: optimizeLegibility;
 }
 
@@ -203,13 +203,14 @@ label {
 }
  
 
+ 
+/* ===== STATE STYLES ======= */
 
-/* ===== BODY STYLING ===== */
 body {
-  background: blue; /* Full blue background */
+  background: blue;  
   font-family: 'Comic Sans MS', cursive;
   text-align: center;
-  color: red; /* Makes all text red */
+  color: red;  
   display: flex;
   justify-content: center;
   align-items: center;
